@@ -21,3 +21,13 @@
 
 en:
   hello: "Hello world"
+  activerecord:
+    attributes:
+      talk:
+        title: Talk Title
+        description: Brief Description of The Talk
+        speaker: "Speaker's Name"
+        speaker_twitter: "Speaker's Twitter Handle"
+        speaker_email: "Speaker's Email Address"
+        speaker_url: URL (to link the author/talk title)
+
